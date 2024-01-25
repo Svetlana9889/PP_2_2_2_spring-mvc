@@ -11,15 +11,4 @@ public class Car {
         this.number = number;
     }
 
-    public String getModel() {
-        return model;
-    }
-
-    public String getColor() {
-        return color;
-    }
-
-    public int getNumber() {
-        return number;
-    }
 }
